@@ -938,3 +938,21 @@ class MedicalWavePainter extends CustomPainter {
     return false;
   }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
